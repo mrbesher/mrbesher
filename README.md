@@ -1,11 +1,10 @@
 # Hi there, I'm Besher Alkurdi 👋
 
 ## About Me
-Currently, I'm an NLP Researcher at Huawei Turkey R&D Center. I specialize in Natural Language Processing and have a background in Computer Science from Yildiz Technical University. I'm passionate about AI research and have contributed to a TUBITAK-funded project focusing on Curriculum Learning.
+NLP Researcher.
 
-- 🔭 At Huawei, I curate and synthesize data for fine-tuning large language models in multiple languages, leveraging model and data parallelism with mixed precision. I've also enhanced finetuning processes and created a versatile model serving platform.
-- 🌱 I'm continually learning and improving my skills, with recent interests in reinforcement learning and advanced aspects of efficient deep learning model finetuning and serving techniques.
-- 💬 Feel free to ask me about my research, projects, or my current role at Huawei. I'm always eager to share and learn.
+- 🔭 Optimized and maintained large language models, including fine-tuning, inference, and deployment, while ensuring scalability, multiple library compatibility.
+- 🌱 Interested in optimizing large language models and knowldge distillation.
 - 📫 How to reach me: You can send me an email at [mrbesheralkurdi@outlook.com](mailto:mrbesheralkurdi@outlook.com).
 
 ## Publications
