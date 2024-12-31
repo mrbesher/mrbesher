@@ -13,8 +13,8 @@ Here are some of my academic publications:
 - [Semantic Similarity Based Filtering for Turkish Paraphrase Dataset Creation](https://aclanthology.org/2022.icnlsp-1.14/)
 - [Linguistic-based Data Augmentation Approach for Offensive Language Detection](https://ieeexplore.ieee.org/document/9919562)
 
-## My Projects
-I love experimenting with things. Here are a few projects I've worked on recently:
+## Some Projects
+- 🚧 [NanoDecoder](https://github.com/mrbesher/nanodecoder) _(Work in Progress)_
 - [NanoBERT](https://github.com/mrbesher/nanobert)
 - [Gaze Tracking Robot](https://github.com/mrbesher/gaze-tracking-robot)
 - [The Genetic Art Forger](https://github.com/mrbesher/genetic-art-forger)
